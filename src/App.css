@@ -1,0 +1,12 @@
+.container {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.box {
+  max-width: 1366px;
+  width: 100%;
+  padding: 5px;
+}
+.gallery {
+}
